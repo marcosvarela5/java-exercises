@@ -1,1 +1,1 @@
-Ejercicio simple de manejo básico de strings
+Basic exercise to work with a String in Java
