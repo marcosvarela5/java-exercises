@@ -1,0 +1,1 @@
+In this exercise, we implemented a topic of interests network using Map structure, to learn how to work with dictionary type data structures in Java. Due to abstraction, Network class allows us to code different implementations without knowing which one we are using.
